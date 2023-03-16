@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcarbonimage_github_io=self.webpackChunkcarbonimage_github_io||[]).push([[46],{4657:e=>{e.exports=JSON.parse('{"label":"project","permalink":"/news/tags/project","allTagsPath":"/news/tags","count":1}')}}]);

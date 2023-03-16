@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://carbonimage.github.io/news</id>
+    <title>Carbon Image Project Blog</title>
+    <updated>2023-03-16T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://carbonimage.github.io/news"/>
+    <subtitle>Carbon Image Project Blog</subtitle>
+    <entry>
+        <title type="html"><![CDATA[NWO Project Grant]]></title>
+        <id>https://carbonimage.github.io/news/project</id>
+        <link href="https://carbonimage.github.io/news/project"/>
+        <updated>2023-03-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Our project titled Intelligent Carbon Footprint Prediction from Architectural Design Visuals has been granted by NWO. Please refer to here and here for more details.]]></summary>
+        <content type="html"><![CDATA[<p>Our project titled <em>Intelligent Carbon Footprint Prediction from Architectural Design Visuals</em> has been granted by <a href="https://www.nwo.nl" target="_blank" rel="noopener noreferrer">NWO</a>. Please refer to <a href="https://www.nwo.nl/en/projects/gocikiem02017" target="_blank" rel="noopener noreferrer">here</a> and <a href="https://www.sia-projecten.nl/project/intelligent-carbon-footprint-prediction-from-architectural-design-visuals" target="_blank" rel="noopener noreferrer">here</a> for more details.</p>]]></content>
+        <author>
+            <name>Burak Yildiz</name>
+            <uri>https://byildiz.github.io</uri>
+        </author>
+        <category label="project" term="project"/>
+    </entry>
+</feed>
