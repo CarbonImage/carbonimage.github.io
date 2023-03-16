@@ -1,0 +1,11 @@
+.profilePicture {
+  --ifm-avatar-photo-size: 12em;
+}
+
+.profileTitle {
+  text-align: left;
+}
+
+.profileText {
+  text-align: justify;
+}
