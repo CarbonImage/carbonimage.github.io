@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Carbon Image Project',
-  tagline: 'Can deep learning help us to build more green structures?',
+  // tagline: 'Can deep learning help us to build more green structures?',
   // favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
