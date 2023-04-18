@@ -4,9 +4,8 @@ import styles from './styles.module.css';
 
 export default function Description(): JSX.Element {
   return (
-    <section id="description" className={clsx('padding-top--sm')}>
+    <section id="description" className={clsx('padding-top--md')}>
       <div className="container">
-        <h1>Description</h1>
         <p>
           How visible is the carbon footprint of a building? This project
           focuses on analyzing the environmental impact of building construction
