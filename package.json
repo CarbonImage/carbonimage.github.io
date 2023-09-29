@@ -22,6 +22,7 @@
     "prism-react-renderer": "^1.3.5",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-lite-youtube-embed": "^2.3.52",
     "slugify": "^1.6.6"
   },
   "devDependencies": {
