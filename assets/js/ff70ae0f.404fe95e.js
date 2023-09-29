@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcarbonimage_github_io=self.webpackChunkcarbonimage_github_io||[]).push([[312],{5540:e=>{e.exports=JSON.parse('{"permalink":"/news/tags/batch-plan","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Latest news from Carbon Image","blogTitle":"News"}')}}]);

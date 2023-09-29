@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcarbonimage_github_io=self.webpackChunkcarbonimage_github_io||[]).push([[422],{6179:e=>{e.exports=JSON.parse('[{"label":"project","permalink":"/news/tags/project","count":1}]')}}]);

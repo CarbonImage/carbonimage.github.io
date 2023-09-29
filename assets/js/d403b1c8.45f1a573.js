@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcarbonimage_github_io=self.webpackChunkcarbonimage_github_io||[]).push([[458],{2199:a=>{a.exports=JSON.parse('{"label":"BatchPlan","permalink":"/news/tags/batch-plan","allTagsPath":"/news/tags","count":1,"unlisted":false}')}}]);
