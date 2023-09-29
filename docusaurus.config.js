@@ -77,7 +77,7 @@ const config = {
           //   position: 'left',
           //   label: 'Tutorial',
           // },
-          {to: '/#team', label: 'Team', position: 'left'},
+          {to: 'team', label: 'Team', position: 'left'},
           {to: '/news', label: 'News', position: 'left'},
           {
             href: 'https://github.com/CarbonImage',
