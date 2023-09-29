@@ -98,6 +98,28 @@ const config = {
               },
             ],
           },
+          {
+            title: 'Repositories',
+            items: [
+              {
+                label: 'BatchPlan',
+                href: 'https://github.com/CarbonImage/BatchPlan',
+              },
+            ],
+          },
+          {
+            title: 'Links',
+            items: [
+              {
+                label: 'TU Delft',
+                href: 'https://www.tudelft.nl/',
+              },
+              {
+                label: 'AiDAPT',
+                href: 'https://www.tudelft.nl/ai/aidapt',
+              },
+            ],
+          },
         ],
         copyright: `Copyright © ${new Date().getFullYear()} Carbon Image`,
       },
